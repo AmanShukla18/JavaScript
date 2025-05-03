@@ -47,7 +47,7 @@ if (str.indexOf(item) != -1) {
 }
 else {
     console.log("The element doesn't exists un the array");
-}
+};
 
 
 
